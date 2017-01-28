@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E8C43E01E3CFB9500B84453 /* Pictures in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C43DF1E3CFB9500B84453 /* Pictures */; };
 		0ED11C3D1E3ADE93009B9F0E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED11C3C1E3ADE93009B9F0E /* AppDelegate.swift */; };
 		0ED11C3F1E3ADE93009B9F0E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED11C3E1E3ADE93009B9F0E /* ViewController.swift */; };
 		0ED11C421E3ADE93009B9F0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ED11C401E3ADE93009B9F0E /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E8C43DF1E3CFB9500B84453 /* Pictures */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Pictures; sourceTree = SOURCE_ROOT; };
 		0ED11C391E3ADE93009B9F0E /* DogYears.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DogYears.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ED11C3C1E3ADE93009B9F0E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0ED11C3E1E3ADE93009B9F0E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		0ED11C3B1E3ADE93009B9F0E /* DogYears */ = {
 			isa = PBXGroup;
 			children = (
+				0E8C43DF1E3CFB9500B84453 /* Pictures */,
 				0ED11C3C1E3ADE93009B9F0E /* AppDelegate.swift */,
 				0ED11C3E1E3ADE93009B9F0E /* ViewController.swift */,
 				0ED11C401E3ADE93009B9F0E /* Main.storyboard */,
@@ -238,6 +241,7 @@
 				0ED11C471E3ADE93009B9F0E /* LaunchScreen.storyboard in Resources */,
 				0ED11C441E3ADE93009B9F0E /* Assets.xcassets in Resources */,
 				0ED11C421E3ADE93009B9F0E /* Main.storyboard in Resources */,
+				0E8C43E01E3CFB9500B84453 /* Pictures in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -512,6 +516,7 @@
 				0ED11C631E3ADE93009B9F0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0ED11C641E3ADE93009B9F0E /* Build configuration list for PBXNativeTarget "DogYearsTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +525,7 @@
 				0ED11C661E3ADE93009B9F0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0ED11C671E3ADE93009B9F0E /* Build configuration list for PBXNativeTarget "DogYearsUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +534,7 @@
 				0ED11C691E3ADE93009B9F0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
