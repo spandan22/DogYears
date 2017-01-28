@@ -14,6 +14,8 @@ class ViewController: UIViewController {
    
     @IBOutlet weak var dogPicture: UIImageView!
     
+    @IBOutlet weak var ageTextField: UITextField!
+    
     @IBOutlet weak var ageExplanation: UILabel!
 
     override func viewDidLoad() {
