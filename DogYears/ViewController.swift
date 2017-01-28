@@ -30,7 +30,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func buttonThatCalculatesAge(_ sender: Any) {
-        if ageTextField.text = nil {
+        if ageTextField.text == nil {
             textAtTopOfScreen.text = "Please enter a number and press the button to learn your dog's age"
         }
     }
