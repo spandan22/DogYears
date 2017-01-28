@@ -23,6 +23,11 @@ class ViewController: UIViewController {
         
         ageExplanation.isHidden = true
     }
+    
+    @IBAction func buttonThatCalculatesAge(_ sender: Any) {
+        
+    }
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
