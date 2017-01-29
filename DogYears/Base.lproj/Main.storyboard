@@ -54,7 +54,7 @@
                                     <action selector="buttonThatCalculatesAge:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ex9-gN-qMo"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Generic Dog.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Xbv-Eg-61J">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Generic Dog.png" translatesAutoresizingMaskIntoConstraints="NO" id="Xbv-Eg-61J">
                                 <rect key="frame" x="45" y="236" width="285" height="175"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -74,6 +74,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Generic Dog.jpg" width="598" height="460"/>
+        <image name="Generic Dog.png" width="598" height="460"/>
     </resources>
 </document>

@@ -7,7 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0E8C43E01E3CFB9500B84453 /* Pictures in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C43DF1E3CFB9500B84453 /* Pictures */; };
+		0E60CADC1E3D6F7600AD7012 /* Angel Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E60CAD41E3D6F7600AD7012 /* Angel Dog.jpg */; };
+		0E60CADD1E3D6F7600AD7012 /* Baby Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E60CAD51E3D6F7600AD7012 /* Baby Dog.jpg */; };
+		0E60CADE1E3D6F7600AD7012 /* Cool Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E60CAD61E3D6F7600AD7012 /* Cool Dog.jpg */; };
+		0E60CADF1E3D6F7600AD7012 /* Generic Dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E60CAD71E3D6F7600AD7012 /* Generic Dog.png */; };
+		0E60CAE01E3D6F7600AD7012 /* Mid Life Crisis Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E60CAD81E3D6F7600AD7012 /* Mid Life Crisis Dog.jpg */; };
+		0E60CAE11E3D6F7600AD7012 /* Middle Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E60CAD91E3D6F7600AD7012 /* Middle Dog.jpg */; };
+		0E60CAE21E3D6F7600AD7012 /* Old Dog with Cane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E60CADA1E3D6F7600AD7012 /* Old Dog with Cane.jpg */; };
+		0E60CAE31E3D6F7600AD7012 /* Old Dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E60CADB1E3D6F7600AD7012 /* Old Dog.jpg */; };
 		0ED11C3D1E3ADE93009B9F0E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED11C3C1E3ADE93009B9F0E /* AppDelegate.swift */; };
 		0ED11C3F1E3ADE93009B9F0E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED11C3E1E3ADE93009B9F0E /* ViewController.swift */; };
 		0ED11C421E3ADE93009B9F0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ED11C401E3ADE93009B9F0E /* Main.storyboard */; };
@@ -35,7 +42,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0E8C43DF1E3CFB9500B84453 /* Pictures */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Pictures; sourceTree = SOURCE_ROOT; };
+		0E60CAD41E3D6F7600AD7012 /* Angel Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Angel Dog.jpg"; sourceTree = SOURCE_ROOT; };
+		0E60CAD51E3D6F7600AD7012 /* Baby Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Baby Dog.jpg"; sourceTree = SOURCE_ROOT; };
+		0E60CAD61E3D6F7600AD7012 /* Cool Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cool Dog.jpg"; sourceTree = SOURCE_ROOT; };
+		0E60CAD71E3D6F7600AD7012 /* Generic Dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Generic Dog.png"; sourceTree = SOURCE_ROOT; };
+		0E60CAD81E3D6F7600AD7012 /* Mid Life Crisis Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mid Life Crisis Dog.jpg"; sourceTree = SOURCE_ROOT; };
+		0E60CAD91E3D6F7600AD7012 /* Middle Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Middle Dog.jpg"; sourceTree = SOURCE_ROOT; };
+		0E60CADA1E3D6F7600AD7012 /* Old Dog with Cane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Old Dog with Cane.jpg"; sourceTree = SOURCE_ROOT; };
+		0E60CADB1E3D6F7600AD7012 /* Old Dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Old Dog.jpg"; sourceTree = SOURCE_ROOT; };
 		0ED11C391E3ADE93009B9F0E /* DogYears.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DogYears.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ED11C3C1E3ADE93009B9F0E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0ED11C3E1E3ADE93009B9F0E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,7 +113,14 @@
 		0ED11C3B1E3ADE93009B9F0E /* DogYears */ = {
 			isa = PBXGroup;
 			children = (
-				0E8C43DF1E3CFB9500B84453 /* Pictures */,
+				0E60CAD41E3D6F7600AD7012 /* Angel Dog.jpg */,
+				0E60CAD51E3D6F7600AD7012 /* Baby Dog.jpg */,
+				0E60CAD61E3D6F7600AD7012 /* Cool Dog.jpg */,
+				0E60CAD71E3D6F7600AD7012 /* Generic Dog.png */,
+				0E60CAD81E3D6F7600AD7012 /* Mid Life Crisis Dog.jpg */,
+				0E60CAD91E3D6F7600AD7012 /* Middle Dog.jpg */,
+				0E60CADA1E3D6F7600AD7012 /* Old Dog with Cane.jpg */,
+				0E60CADB1E3D6F7600AD7012 /* Old Dog.jpg */,
 				0ED11C3C1E3ADE93009B9F0E /* AppDelegate.swift */,
 				0ED11C3E1E3ADE93009B9F0E /* ViewController.swift */,
 				0ED11C401E3ADE93009B9F0E /* Main.storyboard */,
@@ -238,10 +259,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E60CAE31E3D6F7600AD7012 /* Old Dog.jpg in Resources */,
+				0E60CAE21E3D6F7600AD7012 /* Old Dog with Cane.jpg in Resources */,
+				0E60CADE1E3D6F7600AD7012 /* Cool Dog.jpg in Resources */,
+				0E60CAE11E3D6F7600AD7012 /* Middle Dog.jpg in Resources */,
 				0ED11C471E3ADE93009B9F0E /* LaunchScreen.storyboard in Resources */,
+				0E60CADC1E3D6F7600AD7012 /* Angel Dog.jpg in Resources */,
 				0ED11C441E3ADE93009B9F0E /* Assets.xcassets in Resources */,
+				0E60CADF1E3D6F7600AD7012 /* Generic Dog.png in Resources */,
+				0E60CADD1E3D6F7600AD7012 /* Baby Dog.jpg in Resources */,
 				0ED11C421E3ADE93009B9F0E /* Main.storyboard in Resources */,
-				0E8C43E01E3CFB9500B84453 /* Pictures in Resources */,
+				0E60CAE01E3D6F7600AD7012 /* Mid Life Crisis Dog.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
